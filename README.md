@@ -3,6 +3,15 @@ Extremely easy chrome extension. Just select some text on a website, right click
 
 ![Screenshot of extension in action](image.png)
 
+## 🔧 Installation
+
+1. Download or clone this repository
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable "Developer mode" in the top right
+4. Click "Load unpacked"
+5. Select the folder containing the extension files (manifest.json, background.js, etc.)
+
+
 ## 🚧 Limitations
 While this extension makes it super easy to generate :~:text highlight links, there are a few important limitations to keep in mind:
 
